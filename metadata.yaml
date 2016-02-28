@@ -1,0 +1,26 @@
+_repo: Sklepy-cynamonowe_8119
+creator:
+  author:
+    agent_name: Schulz, Bruno
+    alias: Shults, Bruno
+    birthdate: 1892
+    deathdate: 1942
+    gutenberg_agent_id: '2650'
+    url: http://www.gutenberg.org/2009/agents/2650
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Bruno_Schulz
+    - http://pl.wikipedia.org/wiki/Bruno_Schulz
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8119'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Poland -- Fiction'
+title: Sklepy cynamonowe
+url: http://www.gutenberg.org/ebooks/8119
